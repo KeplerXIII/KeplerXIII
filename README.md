@@ -1,4 +1,4 @@
-## Hi there, I'm [Alexandr](https://github.com/KeplerXIII) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+## Hi there, I'm [Alexandr](https://github.com/KeplerXIII) 🤟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student full-stack+developer)  
 [![Hackerra](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/a_v_pushkin)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeplerXIII)
