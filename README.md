@@ -1,5 +1,5 @@
 ## Hi there, I'm [Alexander](https://github.com/KeplerXIII) 🤟
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student full-stack+developer)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+full-stack+developer)  
 [![Hackerra](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/a_v_pushkin)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeplerXIII)
 [![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@PushkinXIII)  
