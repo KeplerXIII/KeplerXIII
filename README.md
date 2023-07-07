@@ -3,8 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+developer)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeplerXIII)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KeplerXIII)
-  
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/KeplerXIII)  
 [![Hackerra](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/a_v_pushkin)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/KeplerXIII)  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -28,3 +27,6 @@
 [![codewars](https://www.codewars.com/users/KeplerXIII/badges/small)](https://www.codewars.com/users/KeplerXIII)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr-pushkin-9b88a890/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pushkin_XIII)  
+
+![Gitlab](https://gitlab.com/username/userproject/badges/master/pipeline.svg)
+
